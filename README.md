@@ -64,7 +64,7 @@ for i in range (1,11):
 ```
 
 8.Diseñar una función que permita calcular una aproximación de la función exponencial alrededor de 0 para cualquier valor x (real), utilizando los primeros n términos de la serie de Maclaurin. Nota: use math para traer la función exponencial y mostrar la diferencia entre el valor real y la aproximación.
-[![image.png](https://i.postimg.cc/brc6HGX7/image.png)](https://postimg.cc/hzsbKtts)
+
 ```python
 import math
 
